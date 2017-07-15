@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main_content" type="id" />
+    <item name="error_view" type="id" />
+    <item name="error_message" type="id" />
+    <item name="user_name" type="id" />
+    <item name="avatar_image" type="id" />
+    <item name="text_view_name" type="id" />
+    <item name="text_view_public_repos" type="id" />
+    <item name="list_repository" type="id" />
+    <item name="repo_name" type="id" />
+    <item name="repo_size" type="id" />
+    <item name="repo_url" type="id" />
+
+    <item name="login_container" type="id" />
+    <item name="login_form" type="id" />
+    <item name="username_edit_text" type="id" />
+    <item name="password_edit_text" type="id" />
+    <item name="stay_logged_in_box" type="id" />
+    <item name="error_text_view" type="id"/>
+</resources>
